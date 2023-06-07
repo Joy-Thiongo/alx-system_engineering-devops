@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shell basics
+Task 1. What’s in there?
